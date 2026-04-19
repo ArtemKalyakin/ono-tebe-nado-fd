@@ -1,1 +1,1 @@
-https://github.com/ArtemKalyakin/ono-tebe-nado-fd
+https://github.com/ArtemKalyakin/posmotri-v-okno-fd
